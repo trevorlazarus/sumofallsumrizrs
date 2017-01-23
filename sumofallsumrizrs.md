@@ -1,35 +1,37 @@
-mohaps/tldrzr Algorithmic summarizer for RSS/Atom Feeds, Web Urls and arbitrary text. Codebase for the application deployed at http://tldrzr.herokuapp.com
-KIT-IPE/Kitcube-Status One page display to summarize the status of KIT CUBE
-sc3/cookcountyjail A Django app that tracks the population of Cook County Jail over time and summarizes trends.
-addthis/stream-lib Stream summarizer and cardinality estimator.
-Emergya/redmine_cmi CMI is a Redmine plugin to have a summarized view of the projects. It calculates and shows with graphics different metrics as actual effort, cost, progress or deviation from the goals of the projects.
-codyrioux/REAPER A text summarization framework written in clojure.
-miso-belica/sumy Module for automatic summarization of text documents and HTML pages.
-jeffdeville/page_summary Emulate the summarizing of a URL the way Facebook does when you paste one in to your status updte.
-Plazmaz/Neuroticz A basic webpage summarizing framework
-Rotten194/summarize.py A python script for summarizing articles using nltk
-motemen/git-pr-release Creates a pull request which summarizes feature branches that are to be released into production
-atinypixel/radiant-summarize-extension Allows you to summarize existing page part content
-codelucas/shorten.tv Python video summarization. Visit the public API at — www.shorten.tv
-himanshujindal/Automatic-Text-Summarizer Automatic Document Summarizer using Bipartite HITS, Natural Language Processing (NLP)
-xiaoxu193/PyTeaser Summarizes news articles
-WING-NUS/SWING The Summarizer from the Web IR / NLP Group (WING), hence SWING, is a modular, state-of-the-art automatic extractive text summarization system. It is used as the basis for summarization research at the National University of Singapore. It performs as one of the leading automatic summarization…
-mg289/summarizer Extractive graph-based text summarizer
-reeteshranjan/summarizer Highly performant version of open-text-summarizer
-ryran/xsos sosreport examiner – instantly summarize system info from a sosreport or a running system
-jbrooksuk/node-summary Node module that summarizes text using a naive summarization algorithm
-substack/faucet human-readable TAP summarizer
-hayden1987/TextSummarizer
-depeele/summarization Experiments with visualization of summarization information.
-karan/summarize A very basic script to summarize any piece of content (text). Still in progress.
-yangchenyun/dbclass-exercises All the DB class exercises summarized together
-kariminf/AllSummarizer Implementation of the method described in this paper: http://dx.doi.org/10.1117/12.2004001
-lana6/text_summarization Python text summarization project for computer science M.Sc.
-philplckthun/node-sumuparticles Node module summarizing web-articles using a naive algorithm.
-MojoJolo/textteaser TextTeaser is an automatic summarization algorithm.
-pld-linux/ots Open Text Summarizer
-zzamboni/grabcartoons GrabCartoons is a comic-summarizing utility. It is modular, and it is very easy to write modules for new comics.
-sfranky/qtop qtop (pronounced queue-top) is a tool written in order to summarize the state of an LRMS (Local Resource Management System), along with some related information relevant on grid (and not grid) clusters. At present it supports the PBS family only.
+automatic-summarization OR summarizer [100x Apr 2014]
+
+http://github.com/mohaps/tldrzr Algorithmic summarizer for RSS/Atom Feeds, Web Urls and arbitrary text. Codebase for the application deployed at http://tldrzr.herokuapp.com
+http://github.com/KIT-IPE/Kitcube-Status One page display to summarize the status of KIT CUBE
+http://github.com/sc3/cookcountyjail A Django app that tracks the population of Cook County Jail over time and summarizes trends.
+http://github.com/addthis/stream-lib Stream summarizer and cardinality estimator.
+http://github.com/Emergya/redmine_cmi CMI is a Redmine plugin to have a summarized view of the projects. It calculates and shows with graphics different metrics as actual effort, cost, progress or deviation from the goals of the projects.
+http://github.com/codyrioux/REAPER A text summarization framework written in clojure.
+http://github.com/miso-belica/sumy Module for automatic summarization of text documents and HTML pages.
+http://github.com/jeffdeville/page_summary Emulate the summarizing of a URL the way Facebook does when you paste one in to your status updte.
+http://github.com/Plazmaz/Neuroticz A basic webpage summarizing framework
+http://github.com/Rotten194/summarize.py A python script for summarizing articles using nltk
+http://github.com/motemen/git-pr-release Creates a pull request which summarizes feature branches that are to be released into production
+http://github.com/atinypixel/radiant-summarize-extension Allows you to summarize existing page part content
+http://github.com/codelucas/shorten.tv Python video summarization. Visit the public API at — www.shorten.tv
+http://github.com/himanshujindal/Automatic-Text-Summarizer Automatic Document Summarizer using Bipartite HITS, Natural Language Processing (NLP)
+http://github.com/xiaoxu193/PyTeaser Summarizes news articles
+http://github.com/WING-NUS/SWING The Summarizer from the Web IR / NLP Group (WING), hence SWING, is a modular, state-of-the-art automatic extractive text summarization system. It is used as the basis for summarization research at the National University of Singapore. It performs as one of the leading automatic summarization…
+http://github.com/mg289/summarizer Extractive graph-based text summarizer
+http://github.com/reeteshranjan/summarizer Highly performant version of open-text-summarizer
+http://github.com/ryran/xsos sosreport examiner – instantly summarize system info from a sosreport or a running system
+http://github.com/jbrooksuk/node-summary Node module that summarizes text using a naive summarization algorithm
+http://github.com/substack/faucet human-readable TAP summarizer
+http://github.com/hayden1987/TextSummarizer
+http://github.com/depeele/summarization Experiments with visualization of summarization information.
+http://github.com/karan/summarize A very basic script to summarize any piece of content (text). Still in progress.
+http://github.com/yangchenyun/dbclass-exercises All the DB class exercises summarized together
+http://github.com/kariminf/AllSummarizer Implementation of the method described in this paper: http://dx.doi.org/10.1117/12.2004001
+http://github.com/lana6/text_summarization Python text summarization project for computer science M.Sc.
+http://github.com/philplckthun/node-sumuparticles Node module summarizing web-articles using a naive algorithm.
+http://github.com/MojoJolo/textteaser TextTeaser is an automatic summarization algorithm.
+http://github.com/pld-linux/ots Open Text Summarizer
+http://github.com/zzamboni/grabcartoons GrabCartoons is a comic-summarizing utility. It is modular, and it is very easy to write modules for new comics.
+http://github.com/sfranky/qtop qtop (pronounced queue-top) is a tool written in order to summarize the state of an LRMS (Local Resource Management System), along with some related information relevant on grid (and not grid) clusters. At present it supports the PBS family only.
 xissy/chrome-three-sentences A google chrome extension to summarize a TLDR webpage to just three sentences.
 davidmfoley/git-timeofday ruby script that summarizes git commits by author and time of day
 for-GET/know-your-http-well HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
@@ -97,4 +99,4 @@ dpaleino/syslog-summary summarize the contents of a syslog log file
 madhuraraju/Multi_Document_Summarizer_LDA
 twcamper/cukeregator summarize many cucumber output files on a single page
 danielh1982/LibIPvX LibIPvX is a set of C++ classes that provide IPv4 and IPv6 bitwise arithmetic, subnetting operations, native IP classes, route summarization and lots more.
-kasatani/iphone-stats Simple script for summarizing downloads from App Store. WARNING: This script is no longer maintained so it will not work with the current App Store.
+http://github.com/kasatani/iphone-stats Simple script for summarizing downloads from App Store. WARNING: This script is no longer maintained so it will not work with the current App Store.
